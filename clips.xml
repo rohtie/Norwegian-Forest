@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<clip src="16" start="0" length="260" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex16.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="11" start="260" length="298" time="-2.86666679">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex11.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="14" start="558" length="218" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex14.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="3" start="776" length="278" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex3.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="4" start="1054" length="284" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex4.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="13" start="1338" length="255" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex13.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="8" start="1593" length="207" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex8.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="15" start="1800" length="254" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex15.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="5" start="2054" length="186" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex5.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="9" start="2240" length="263" time="7.9666667">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex9.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="6" start="2503" length="324" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex6.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="12" start="2827" length="269" time="1.53333282">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex12.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="14" start="3096" length="382" time="-0.783333361">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex14.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="7" start="3478" length="392" time="-4.8499999">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex7.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="1" start="3870" length="364" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex1.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="2" start="4234" length="413" time="-119.549995">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex2.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
+<clip src="10" start="4647" length="640" time="0">
+	<iChannel src="sound" filter="" />
+	<iChannel src="tex10.png" filter="" />
+	<iChannel src="" filter="" />
+	<iChannel src="" filter="" />
+</clip>
